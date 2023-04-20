@@ -1,0 +1,93 @@
+O que é Hardwere
+
+    Hardwere é um termo técnico que se refere à parte física de computadores e outros sistemas micro-eletrônicos.
+
+    Exemplos:
+
+        Computador, televisão, modem, placa-mãe, processador, microfone, webcam, pendrive, impressora, etc. 
+
+O que é um Periférico
+
+    Um periférico é "um dispositivo auxiliar usado para enviar ou receber informações de um sistema eletrônico".
+
+    Exemplos:
+
+        Uma tela(computador/televisao), mouse, teclado, pendrive, webcam, microfone, impressora, etc.
+
+O que é um softwere
+
+    Softwere é um conjunto de instruções que permitem controlar um aparelho eletrônico. Ele é a parte lógica(abstrata).
+
+    NOTA
+
+        Para existir softwere precisa existir hardwere, só podemos acessar um softwere através de um hardwere.
+
+        Exemplos:
+
+            Para interagir com um editor de imagens(softwere) precisamos de um dispositivo apontador(hardwere)(mouse / caneta-touch, dedo(tela sensível ao toque)) para que possamos selecionar, arrastar, ... -  tela(hardwere) para ver o que estamos fazendo e por ai vai.
+
+    Onde o softwere está
+
+        Dentro de um hardwere ou softwere.
+
+    Exemplos:
+
+        Exec(softwere de planilha), Word(softwere de edição de texto), OBS(softwere de straming), Chrome(softwere para navegar na internet), League of Legends(softwere de jogo), um mico-ondas tem um softwere, mouse, teclado, webcam, modem, carregador de celular, etc. 
+
+O que é Firmware(softwere)
+
+    A função do Firmware é armazenar todas as informações para que o equipamento funcione corretamente.
+
+    O Firmware é armazenado permanentemente num ciclo integrado(chip) de memória de hardwere no momento da fabricação do componente.
+
+O que é um driver(softwere)
+
+    A função do driver é ser a ponte entre o sistema operacional e o firmware dos dispositivos eletronicos.
+
+    O driver é instalado no computador quando há a necessidade de se conectar com um novo dispositivo.
+
+Sistema operacional(softwere)
+
+    Um sistema operacional é responsável pelo gerenciamento de todo o hardwere do seu computador. É ele que vai dizer, por exemplo, quando poderá ultilizær o processador e por quanto tempo, quando de memória RAM será ultilizæda, gerenciamento de SSD/HS, etc.
+
+O que é programa
+
+    Softwere -> Programa de computador que controla o hardwere
+
+    Program -> Programa de computador ou aplicativo(GUI)
+
+    Um programa é um conjunto de informações que descrevem uma tarefa/trabalho específico no seu computador.
+
+    São ferramentas desenhadas para o usuário realizær ações.
+
+    Exemplos:
+
+        Chrome, Excel, Word, Jogos, OBS, youTube, etc.
+
+O que é memória RAM
+
+    A memória RAM é um espaço temporário de informações do sistema operacional e de aplicativos em uso.
+
+    Quando uma tarefa é concluída por algum softwere, os arquivos que estavam em uso são movidos da memória RAM para o HD/SSD para serem mantidas.
+
+    Quando o computador é desligado a memória RAM é limpa automaticamente.
+
+O que é HD e SSD
+
+    O HD e o SSD são dispositivos de ermazenamento de dados.
+
+    O HD usa pratos mecânicos e um cabeçote móvel de leitura/gravação para acessar dados.
+
+    O SSD não possui partes móveis, apenas chips de memórias.
+
+    Independente se o computador está desligado ou não, as informações mantidas no HD ou SSD permancem guardadas.
+
+Processador
+
+    O processador é o cérecro do dispositivo eletrônico.
+
+    Transforma em ula linguagem que o computador entende(binário).
+
+    Ele tranforma dados em informações, por exemplo, carregar páginas, fazer downloads, abrir arquivos, executar programas, etc.
+
+    A velocidade que seu computador abre ou executa programas é em parte responsabilidade do processador.

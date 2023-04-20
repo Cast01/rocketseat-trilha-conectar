@@ -1,0 +1,21 @@
+CONECTAR
+
+    O que é CONECTAR
+
+        Mundo real x "mundo" WEB
+
+        Nomes técnicos referente a programação
+
+        Uma ferramenta na sua jornada
+
+    Prerequisitos
+
+        Querer ser um desenvolvedor de softwere.
+
+    Pelos título eu acho que ja sei o conteúdo, posso pular?
+
+        Não!
+
+    O que vou aprender
+
+        Configurar o ambiente de desenvolvimento, lógica de programação, dados e manipulação de dados, significado de palavras que usamos no dia a dia: (URL, HTTP, TCP, IP, etc), cliente/servidor, partes de um computador e qual o papel de cada uma, tipos de softwere, como a internet é possível, como computadores se comunicam na internet, sistemas operacionais, tipos de aplicações WEB e linguagens de programação.
