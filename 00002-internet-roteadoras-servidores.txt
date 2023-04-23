@@ -175,3 +175,9 @@ Internet, Roteadores e Servidores
                 É uma versão do HTTP que usa criptografia para proteger a comunicação entre o navegador e o servidor web. Ele ultilizæ um certificado SSL/TLS(Secure Socket Layer/Transport Layer Security) para estabelecer uma conexão segura e criptografada entre o navegador e o servidor. Isso garante que as informações treansferidas entre os dois sejam protegidas contra esionagem e adulteração por terceiros.
 
         Hoje em dia, a maioria dos sites usa o protocolo HTTPS para garantir a privacidade e a segurança das informações transferidas entre o navegador e o servidor.
+
+    Videos complementares
+
+        How internet works - Vox
+
+        Curso HTML5 - 01 - História da Internet - by Gustavo Guanabara / Curso em Vídeo
