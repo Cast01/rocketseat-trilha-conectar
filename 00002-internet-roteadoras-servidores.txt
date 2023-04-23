@@ -1,0 +1,177 @@
+Internet, Roteadores e Servidores
+
+    O que é internet
+
+        A internet são redes interligadas pelo mundo inteiro
+
+        Uma rede tem como objetivo interligar computadores para fornecer aos usuários acesso a diversas informações
+
+        A internet é feita de cabos que conectam o mudno inteiro.
+
+        Imagem
+
+            https://www.telefonica.com/es/wp-content/uploads/sites/4/2022/11/arquitectura-internet-red.png
+
+    Rede de computadores e comunicação
+
+        Pdemos ficar sem internet?
+
+            Problema de conexão
+
+                Sua conexão com a internet pode ficar indisponível devido a problemas na infraestrutura da rede, como falhas nos cabos, interrupções de energia o problemas técniicos na sua operadora de internet.
+
+            Problemas no roteador
+
+                Se o seu roteador não estiver funcionando corretamente, você pode perder a conexão com a internet. Isso pode acontecer devido a problemas de configuração, atualizæção de firmware ou falhas de hardwere.
+
+            Problemas com provedor de internet
+
+                O seu provedor pode estar enfrentando problemas técnicos, você pode ficas sem conexão com a internet.
+
+            Problemas com o dispositivo
+
+                Se o seu computador,smartphone ou outro dispositivo estiver com problemas técnicos, você pode não conseguir se conectar à internet.
+
+            Interrupções planejada
+
+                As vezes, a sua operadora de internet pode realizær manutenções programadas ou atualizæções que podem deixá-lo sem internet por um período de tempo.
+
+            Falta de sinal
+
+                Se você estiver em uma área sem cobertura de rede ou com sinal fraco, pode não conseguir se conectar à internet.
+
+    Redes de computadores
+
+        É  a conexão de dispositivos para permitir a transmissão de dados.
+
+        As redes de computadores permitem que usuários compartilhem recursos, como arquivos, impressora e conexão com a internet, e realizær a troca de informações de maneira rápida e eficiente. As redes de computadors são fundamentais em empresas, organizæções governametais e em toda a sociedade em geral.
+
+        As redes de computadores podem ser classificadas em vários tipos, dependendo do tamanho, da abrangência geográfica e da finalidade. Alguns exemplos incluem
+
+            Redes locais(WAN)
+
+                São redes utilizædas em um espaço fisico restrito, como uma empresa, escola ou residência. Geralmente sao compostas por dispositivos que estão proximos fisicamente e são interconectadas por meio de cabos de rede.
+
+            Redes metropolitanas(MAN)
+
+                São redes que abrangem uma região geografica maior do que uma LAN, geralmente uma cidade ou uma região metropolitana.
+
+            Redes de longa distância(WAN)
+
+                São redes que abrangem uma grande área geográfica, como um país ou mesmo vários países. Geralmente são compostas por várias redes locais interconectadas por meio de linhas de comunicação dedicadas ou serviços de telecomunicações.
+
+            Internet
+
+                É uma rede global de computadores interconectados que permite o compartilhamento de informações em escata mundial. A internet é conectada por milhões de redes interconectadas, que ultilizæm protocolos de comunicação padronizædos para trocar informações.
+
+            Imagem
+            
+                https://www.projetoderedes.com.br/tutoriais/imagens/Image48.gif
+
+    Como é feita a comunicação na internet
+
+        A comunicação na internet é feita por meio do protocolo de comunicações TCP/IP(Transmition Control Protocol/Internet Protocol). Esse protocolo é uma suite de protocolos de comunicação utilizædos para interconectar dispositivos em redes de computadores.
+
+        O protocolo TCP é responsável por garantir que os dados sejam entregues corretamente, sem error e sem duplicação, além de controlar o fluxo de informações entre dispositivos. O protocolo IP, por sua vez, é responsável pelo endereçamento dos pacotes de dados e pela escolha da melhor rota para a entrega dos dados de um dispositivos para o outro.
+
+        Quando um dispositivo se conecta à internet, ele é atribuído a um endereço IP exclusivo que o identifica na rede. Esse endereço é composto por uma série de números que identificam a rede e o dispositivo na rede.
+
+        A comunicação na internet é feita por meio de pacotes de dados. Quando m dispositivo envia uma mensagem para outro dispositivo, ela é dividida pela rede até chegar ao destinatário. Cada pacote é roteado por vários dispositivos intermediários na rede, que ultilizæm o protcolo IP para escolher a melhor rota para a entrega dos pacotes.
+
+        Ao chegar ao destinatário, os pacotes de dados são reunidos e decodificados para formar a mensagem original. Todo esse processo acontece em questão de milissegundos, permitindo que a comunicação na internet seja rápida e eficiente.
+
+        A comunicação na internettambém pode ser feita por meio de outros protocolos de comunicação, como o HTTP(Hyper Text Transfer Protocol), ultilizædo para acessar páginas web, e o FTP(File Transfer Protocol), ultilizædo para transferência de arquivos.
+
+        Imagem
+
+            https://upload.wikimedia.org/wikipedia/commons/8/86/Modelos%28cortado1%29.png
+
+    O que é IP
+
+        Atraves do IP que seu computador pode enviar e receber dados na internet.
+
+        Internet Protocol(IP) é um protocolo de comunicação da camada de rede OSI(Open Systems Intercomunication), que é ultilizædo para interconectar dispositivos em redes de computadores, incluindo a internet.
+
+        O endereço IP é um identificador exclusivo que é atribuido a cada dispositivo conectado à internet. É composto por uma série de números separados por pontos, por exemplo, "192.168.1.1".
+
+        Existem dois tipos pricipais de endereços IP:
+
+            IPv4
+
+                É o padrão  mais antigo e ainda amplamente ultilizædo na internet. Os endereços IPv4 são compostos por 32bits, o que significa qye há um limite de cerca de 4 bilhos de endereços únicos.
+
+            IPv6
+
+                É o padrão mais recente, que foi desenvolvido para resolver a escassez de endereços IPv4. Os endereçosd IPv6 são compostos por 128bits, o que permite um numero quase ilimitado de endereços únicos.
+
+        Os endereços de IP são essenciais para a comunicação na internet, pois permitem que os dispositivos se identifiquem e se comuniquem uns com os outros por meio do protocolo IP. Sem endereço IP, a comunicação na internet seria impossível.
+
+    O que é MAC Address
+
+        MAC Address(Media Access Control Address) é um endereço de hardwere único atribuído a cada dispositivo que possui uma placa de rede, como computadores, smartphones, tablets, roteadores, entre outros.
+
+        O MAC Address é composto por uma sequência de 48bits(ou 6 bytes) e é ultilizædo para identificar de forma exclusiva um dispositivo na rede. CAda fabricante de dispositivos possui um identificador único de 24bits, chamado de OUI(Organizætionally Unique Identifier), que é atribuído dela IEEE(Istitute of Eletrical and Eletronics Engineers). Os 24 bits do MAC Address são atribuídos peo fabricante de acordo com suas próprias convenções.
+
+        O MAC Address é diferente do endereço IP, pois é um identificador de hardwere, enquanto o endereço IP é um identificador de rede. O MAC Address é ultilizædo em nível de link de dados para controlar o acesso à rede e garantir que os pacotes de dados sejam enviados e recebidos pelos dispositivos corretos.
+
+        O MAC Address é geralmente impresso em uma etiqueta física no dispositivo de rede ou pode ser exibido por meio de softwere. É possível descobrir o endereço MAC do seu dispositivo executando um comando no prompt de comandos(Windows) ou terminal(macOS ou Linux).
+
+    O que é um servidor
+
+        Um servidor é um computador ou sistema de computadores que é responsável por fornecer serviços para outros dispositivos em um rede. Em outras palavras, um servidor é um dispositivo que atende a solicitações de outros disositivos, fornecendo informações, arquivos ou recursos.
+
+        Os servidores podem ser usados para executar uma ampla variedade de tarefas, como hospedas sites, fornecer serviços de e-mail, armazenar dados, fornecer acesso remoto, executar aplicativos ou processar transações comerciais. Geralmente, um servidor é projetado para ser altamente confiável e oferecer alto desempenho, segurança e disponibilidade.
+
+        Existem vários tipos de servidores, incluindo:
+
+            Servidores de arquivos
+            
+                Responsáveis por armazenar e gerenciar arquivos compartilhados em uma rede.
+
+            Servidores de impressão
+
+                Responsáveis por gerenciar impressoras compartilhadas em um rede.
+
+            Servidores de E-mail
+            
+                Responsáveis por derenciar o envio e recebimento de e-mails em uma rede.
+
+            Servidores web
+
+                Responsáveis por hospedar sites e fornecer acesso a página da web.
+
+            Servidores de banco
+
+                Responsáveis por armazenar e gerenciar dados em uma rede.
+
+        Os servidores podem ser físicos ou virtuais e podem ser executados em sistemas operacionais como Windows, Linux ou macOS. ELes também podem ser administrados e monitorados remotamente por meio de ferramentas de gerenciamento de servidor.
+
+        Um servidor é um computador equpado com um ou mais processadores, portas de comunicação, softwere, algum sistema para armazenamento de dados como HD's/SSD's.
+
+        Fornece serviços a uma rede de computadores, chamada de cliente. Esses serviços podem ser, por exemplo, hospedagem de site, provedor de e-mails, entre outros.
+
+    O que é DNS
+
+        Os servidores DNS(Domain Name System) são os responsáveis por localizær e traduzir para nímeros IP os endereços dos sites que digitamos nos navegadores.
+
+        O DNS permite que vocÇe acesse um site de um site digitando um endereço nominal em lugar de números e ponstos.
+
+        Quando você digita um nome de domínio em um navegador da web, como google.com, o computador precisa traduzir esse nome de domínio em um endereço IP que possa ser usado para acessar o site. O DNS é responsável por essa tradução, permitindo que você acesse sites na internet usando nomes de domínio fáceis de lembrar, em vez de ter que memorizær números de enderço IP complexos, O DNS também é responsável por armazenar informações de registro de e-mail e outros serviços assiciados a um domínio.
+
+    O que é HTTP/https
+
+        HTTP(Hyper Text Transfer Protocol) é um protocolo de transferência de dados, no momento que o usuário digita a URL em algum navegador, o navegador cria um requisição HTTP e manda para o servidor correspondente ao IP da URL e então o servidor responde através do HTTP enviando todos os dados necessários para exibir o site ao usuário no navegador.
+
+        O HTTPS(Hyper Text Transfer Protocol Secure) adiciona uma criptografia as informações enviadas ou recebidas de um site.
+
+        HTTP/HTTPS são protocolos de comunicação usados para transferir informações na internet.
+
+            HTTP
+
+                É um protocolo que permite a transferência de dados, como documentos HTML , entre um servidor web e um navegador. Ele usa uma abordagem de solicitação e resposta, onde o navegador envia uma solicitação ao servidor para um recurso específico(por exemplo, uma página web) e o servidor responde com o conteúdo solicitado.
+
+            HTTPS
+
+                É uma versão do HTTP que usa criptografia para proteger a comunicação entre o navegador e o servidor web. Ele ultilizæ um certificado SSL/TLS(Secure Socket Layer/Transport Layer Security) para estabelecer uma conexão segura e criptografada entre o navegador e o servidor. Isso garante que as informações treansferidas entre os dois sejam protegidas contra esionagem e adulteração por terceiros.
+
+        Hoje em dia, a maioria dos sites usa o protocolo HTTPS para garantir a privacidade e a segurança das informações transferidas entre o navegador e o servidor.
