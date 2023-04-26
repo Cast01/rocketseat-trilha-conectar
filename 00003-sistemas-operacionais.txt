@@ -1,0 +1,179 @@
+Sistemas operacionas
+
+    Alguns S.O:
+
+        Windows - Microsoft, MacOS - Apple, Linux, Android, iOS - Apple, ChromeOS - Google, Solaris - Oracle, FreeBSD, OpenBSD, Kali, IBM z/OS, IBM i - Anteriormente conhecido como OS/400, IBM AIX, HP-UX - Hewlett Packard Enterprise e etc.
+
+    O que é um Sistema Operacional:
+
+        Interface entre o usuário e a máquina
+
+        Programa que irá controlar seu aparelho(computador, celular)
+
+            Gerenciamento de dispositivos(hardwere)
+
+            Gerenciamento de aplicativos e programas(softwere)
+
+            Gerenciamento de tarefas
+
+                Quanto de memória ram o aplicativo vai ultilizar
+
+                etc.
+            
+        Conversar com o computador em linguagem de máquina
+
+        Um sistem operacional(SO) é um softwere que gerencia recursos de hardwere e softwere de um computador ou dispositivo eletrônico. Ele atua como intermediário entre o usuário e o hardwere, fornecendo uma interface para que os usuários possam interagir com o sistema, executar aplicativos e controlar o hardwere.
+
+        O sistema operacional é responsável por diversas funções críticas, como gerenciar a memória, o armazenamento, a CPU, a entrada e saída de dados e a segurança do sistma. Ele também fornece serviços para aplicativos, como o acesso a arquivos, impressão, rede, entre outros.
+
+        Os sistemas operacionais são projetados para uma ampla variedade de dispositivos, incluindo computadores pessoais, servidores, smartphones, tablets, sistemas embarcados e dispositivos de Internet das coisas. Cada tipo de dispositivo tem necessidades e requisitos únicos e, portanto, o sistema operacional é projetado para atender a essas necessidades específicas.
+
+    Caracteristicas e objetivos:
+
+        Algumas das principais características e objetivos de um sistema operacional incluem:
+
+            Gerenciamento de recursos:
+
+                Gerenciar os recursos de hardwere de um computador, como memória, processador, dispositivos de entrada e saída, etc., de modo que diferentes programas possam acessá-los sem conflitos.
+
+            Interface de usuário:
+
+                Fornecer uma interface, permitindo que os usuários interajam com o computador de forma fácil e intuitiva. A interface pode incluir elementos gráficos, menus, ícones, janelas, etc.
+
+            Gerenciamento de arquivos:
+
+                Gerenciar arquivos e pastas armazenadas no computador, permitindo que os usuários criem, editem, salvem e excluam arquivos e pastas de forma organizæda.
+
+            Segurança:
+
+                Garantir a segurança do dispositivo, protegendo-o contra vírus, malware e outras ameaças.
+
+            Desempenho:
+
+                Garantir um desempenho eficiente e rápido do dispositivo, minimizændo o tempo de resposta e maximizændo a eficiência do hardwere.
+
+            Confiabilidade:
+
+                Projetado para ser confiável e estável, minizændo a probabilidade de falhas ou travamentos.
+
+            Portabilidade:
+
+                Ser portátil, ou seja, pode ser executado em diferentes plataformas de hardwere, como computadores pessoais, servidores, telefones celulares, etc.
+
+            Extensibilidade:
+
+                Permitir a extenção de suas funcionalidades através da adição de novos componentes ou módulos.
+
+    Alguns grupos de S.O:
+
+        Microsoft Windows:
+
+            Windows7, Windows8, Windows8.1, Windows10, entre outros.
+
+        Unix
+
+            Ubuntu, Kali, FreeBSD, Linux, MacOS, iOS, Android, entre outros.
+
+    Tpos de interface do usuário:
+
+        Existem vários tipos de interface de usuário, sendo os principais:
+
+            Interface gráfica do usuário(GUI(Graphical User Interface))
+
+                Ultilizæ elementos visuais, como icones, janelas e botões, para permitir que o usuário interaja com o computador. Exemplos de GUI incluem Windows, macOS e Linux como interface gráfica.
+
+            Interface de linha de comando(CLI(Command-Line Interface))
+
+                Interagir com o computador por meio de comandos de texto digitados em um prompt de comando. Exemplos de CLI incluem o terminal do Linux, o Prompt de COmandos do Windows e o Terminal do macOS.
+
+            Interface do usuário baseada em voz(VUI(Voice User Interface))
+
+                Interagir com o computador por meio de comando de voz. Exemplos de VUI incluem assistentes virtuais como Siri, Alexa e Google Assistent.
+
+            Interface Tátil(TUI(Touch User Interface))
+
+                Interagir com o dispositivo por meio de toque em telas sensíveis ao toque. Exemplos de TUI incluem smartphones, tablets e alguns laptops híbridos.
+
+            Interface de Realidade Virtual(VR-UI(Virtual Reality User Interface))
+
+                Interagir com o dispositivo em um ambiente de realidade virtual. Exemplos de VR-UI incluem o Oculus Rift e o FTC Vive.
+
+    Módulos de um sistema operacional
+
+        Kernel
+
+            O Kernel é uma parte fundamental de um sistema operacional e pode ser considerado como o núcleo do sistema. Ele é responsável por fornecer serviços de baixo nível, como gerenciamento de memória, processos, dispositivos e comunicação entre os diferentes componentes do sistema operacional.
+
+            O Kernel é o primeiro programa a ser executado quando o dispositivo é ligado, e ele permanece em execução durante toda a operação do sistema operacional. É por meio do Kernel que os programas e processos do usuário são iniciados, gerenciados e finalizædos, e é ele quem controla o acesso aos recursos do sistema, garantindo a segurança e estabilidade do sistema operacional.
+
+            Existem vários tipos de Kernels, cada um com suas pŕoprias características e vantagens. Os principais tipos de kernel são:
+
+                Monolítico
+
+                    Executa todas as funções do sistema operacional no espaço do Kernel.
+
+                híbridos
+
+                    Executa algumas funções do sistema operacional no espaço do kernel e outras em espaço de usuário.
+
+                Microkernel
+
+                    Executa apenas as funções mais básicas do sistema operacional no espaço do kernel, deixando as funções mais complexas para executar em espaço de usuário.
+
+            Cda tipo de Kernel possui vantagens e desvantagens em relação ao desempenho, segurança, escalabilidade e facilidade de desenvolvimento.
+
+        Gerenciador de processos
+
+            Gerencia a execução de programas e processos no sistema operacional. Ele é responsável por alocar recursos do sistema, como memória, CPU e I/O, e garantir que os processos sejam executados de forma eficiente e segura.
+
+            Dentro do módulo de gerenciamento de processos, o conceito de threads e multitarefas são importantes. Uma thread é uma unidade de processamento básica que pode ser executada de forma independente dentro de um processo. Ela compartilha o mesmo espaço de endereço do processo e pode acessar todos os recursos que o processo possui. A threads são úteis para aproveitar melhor o poder de processamento da CPU, permitindo que multiplas tarefas sejam executadas ao mesmo tempo.
+
+            Já a multitarefa é a capacidade do sistema operacional de executar múltiplas tarefas simultaneamente. Isso pode ser alcançado através de diferentes técnicas, como escalonamento de processos, preempção de processos, e multiprogramação. O escalonamento de processos é o processo de selecionar qual processo deve ser executado em seguida pela CPU. A preempção de processos é a capacidade de interromper a execução de um processo em andamento e iniciar a execução de outro processo. A multiprogramação é a técnica de premitir que múltiplos processos sejam executados simultaneamente na memória do sistema.
+
+            Garante que o sistema operacional execute as tarefas de forma eficiente e confiável, gerenciando recursos, evitando conflitos entre processos, e garantindo que cada processo receba a quantidade necessária de recursos para executar suas tarefas. Ele é responsável por garantir que o sistema operacional seja capaz de lidar com múltiplas tarefas ao mesmo tempo, fornecendo um ambiente de computação multitarefa seguro e confiável.
+
+        Gerenciador de arquivos
+
+            Controla o armazenamento, acesso e organizæção dos arquivos no dispositivo.
+
+            Os sistemas operacionais modernos geralmente ultilizæm um sistema de arquivos híerarquicos, no qual os arquivos são organizædos em diretórios ou pastas. Cada arquivo é identificado  por um nome único e uma extenção que indica o tipo de arquivo. Além disso, os sistemas operacionais também fornecem ferramentas para criar, mover, copiar, renomear e excluir arquivos e diretórios.
+
+            O gerenciamento de arquivos também é responsável pelo controle de acesso aos arquivos, definindo permissões de leitura, gravação e execução para diferentes usuários. Isso é importante para manter a segurança e privacidade dos dados armazenados no computador.
+
+            Além disso, muitos sistemas operacionais também oferecem recursos avançados de gerenciamento de arquivos, como compressão e descompressão de arquivos, backup e restauração de dados, criptografia de arquivos e pastas, e pesquisa avançadas de arquivos.
+
+            Em resumo, o módulo de gerenciamento de arquivos é uma parte essencial dos sistemas operacionais modernos, permitindo aos usuários armazenar, organizær e acessar seus dados de forma eficiente e segura.
+
+            Alguns tipos de sistemas de arquivos:
+
+                Windows
+
+                    FAT, NTFS, etc.
+
+                Linux
+
+                    EXT3, EXT4, etc.
+
+                macOS
+
+                    HFS+, APFS, etc.
+
+            São criados quando estamos instalando o sistema operacional.
+
+    Ferramentas de gerenciamento
+
+        Tarefas
+
+            Gerenciador de tarefas que mostra os processos em execução no sistema operacional.
+
+        Pacotes
+
+            Windows
+
+                Chocolatey, etc.
+
+            Unix
+
+                brew, apt, snap, etc.
+
+            Um gerenciador de pacotes é uma ferramenta de softwere que permite instalar, atualizær, remover e gerenciar pacotes de softwere em um sistema operacional. Ele simplifica o processo de instalação e atualizæção de softwere, permitindo que os usuários istalem e gerenciem facilmente programas e bibliotecas sem precisar baixar e istalar manualmente cada pacote. Os gerenciadores de pacotes são particularmente úteis em sistemas baseados e Unix.
